@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RJS-P18/static/css/main.6fd002e2.css",
+    "main.js": "/RJS-P18/static/js/main.94a6ca41.js",
+    "index.html": "/RJS-P18/index.html",
+    "main.6fd002e2.css.map": "/RJS-P18/static/css/main.6fd002e2.css.map",
+    "main.94a6ca41.js.map": "/RJS-P18/static/js/main.94a6ca41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd002e2.css",
+    "static/js/main.94a6ca41.js"
+  ]
+}
